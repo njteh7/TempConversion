@@ -1,0 +1,27 @@
+c:\users\300969891\documents\visual studio 2015\Projects\TempCon\TempCon\bin\Debug\TempCon.exe.config
+c:\users\300969891\documents\visual studio 2015\Projects\TempCon\TempCon\bin\Debug\TempCon.exe
+c:\users\300969891\documents\visual studio 2015\Projects\TempCon\TempCon\bin\Debug\TempCon.pdb
+c:\users\300969891\documents\visual studio 2015\Projects\TempCon\TempCon\obj\Debug\TempCon.csprojResolveAssemblyReference.cache
+c:\users\300969891\documents\visual studio 2015\Projects\TempCon\TempCon\obj\Debug\TempCon.exe
+c:\users\300969891\documents\visual studio 2015\Projects\TempCon\TempCon\obj\Debug\TempCon.pdb
+C:\Users\NJTEH\Google Drive\College\Semester 2 - W2018\COMP 123\TempCon\TempCon\bin\Debug\TempCon.exe.config
+C:\Users\NJTEH\Google Drive\College\Semester 2 - W2018\COMP 123\TempCon\TempCon\bin\Debug\TempCon.exe
+C:\Users\NJTEH\Google Drive\College\Semester 2 - W2018\COMP 123\TempCon\TempCon\bin\Debug\TempCon.pdb
+C:\Users\NJTEH\Google Drive\College\Semester 2 - W2018\COMP 123\TempCon\TempCon\obj\Debug\TempCon.csprojAssemblyReference.cache
+C:\Users\NJTEH\Google Drive\College\Semester 2 - W2018\COMP 123\TempCon\TempCon\obj\Debug\TempCon.exe
+C:\Users\NJTEH\Google Drive\College\Semester 2 - W2018\COMP 123\TempCon\TempCon\obj\Debug\TempCon.pdb
+C:\Users\NJTEH\Google Drive\College\Semester 2 - W2018\COMP 123\TempCon\TempCon\obj\Debug\TempCon.csproj.CoreCompileInputs.cache
+C:\Users\NJTEH\Desktop\portfolio\TempCon\TempCon\bin\Debug\TempCon.exe.config
+C:\Users\NJTEH\Desktop\portfolio\TempCon\TempCon\bin\Debug\TempCon.exe
+C:\Users\NJTEH\Desktop\portfolio\TempCon\TempCon\bin\Debug\TempCon.pdb
+C:\Users\NJTEH\Desktop\portfolio\TempCon\TempCon\obj\Debug\TempCon.csprojAssemblyReference.cache
+C:\Users\NJTEH\Desktop\portfolio\TempCon\TempCon\obj\Debug\TempCon.csproj.CoreCompileInputs.cache
+C:\Users\NJTEH\Desktop\portfolio\TempCon\TempCon\obj\Debug\TempCon.exe
+C:\Users\NJTEH\Desktop\portfolio\TempCon\TempCon\obj\Debug\TempCon.pdb
+C:\Users\NJTEH\Desktop\portfolio\TempConversion\TempCon\bin\Debug\TempCon.exe.config
+C:\Users\NJTEH\Desktop\portfolio\TempConversion\TempCon\bin\Debug\TempCon.exe
+C:\Users\NJTEH\Desktop\portfolio\TempConversion\TempCon\bin\Debug\TempCon.pdb
+C:\Users\NJTEH\Desktop\portfolio\TempConversion\TempCon\obj\Debug\TempCon.csprojAssemblyReference.cache
+C:\Users\NJTEH\Desktop\portfolio\TempConversion\TempCon\obj\Debug\TempCon.csproj.CoreCompileInputs.cache
+C:\Users\NJTEH\Desktop\portfolio\TempConversion\TempCon\obj\Debug\TempCon.exe
+C:\Users\NJTEH\Desktop\portfolio\TempConversion\TempCon\obj\Debug\TempCon.pdb
